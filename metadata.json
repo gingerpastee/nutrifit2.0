@@ -1,0 +1,7 @@
+{
+  "name": " NutriFit",
+  "description": "A comprehensive AI-powered fitness and community platform combining diet planning, workout tracking, and Reddit-style social interaction.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
